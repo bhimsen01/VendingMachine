@@ -1,0 +1,4 @@
+Chips,1.5,5
+Soda,2.0,3
+Chocolate,2.5,7
+Water,1.0,20
